@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+  background-color:rgb(216, 200, 156);
+  background-size: cover;
+  }
+
+
+.App-header {
+  background-image: url('./logo.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  background-color:black;
+  height: 300px;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+
+.container{
+  padding: 5%;
+}
+
+.bodyContainer{
+  background: linear-gradient(to bottom, rgba(0,0,0,1) 0%,rgba(216, 200, 156) 100%);
+}
