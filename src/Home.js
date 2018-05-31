@@ -7,7 +7,7 @@ class Home extends Component {
     }
     render() {
         return (
-            <h1>Bienvenue sur l'accueil</h1>
+            <h1>Welcome, Wilder!</h1>
         );
     }
 }
